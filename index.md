@@ -18,3 +18,9 @@ a = 3;
 b = 4;
 disp((a+b));
 ```
+
+# Task List 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
