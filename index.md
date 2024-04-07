@@ -4,3 +4,7 @@
 #### This is H4
 ##### This is H5
 ###### This is H6
+
+
+# Adding an Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
