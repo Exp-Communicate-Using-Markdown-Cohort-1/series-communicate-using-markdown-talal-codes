@@ -8,3 +8,13 @@
 
 # Adding an Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+# This is some Code example
+Code:
+```
+Here's some MATLAB code:
+a = 3;
+b = 4;
+disp((a+b));
+```
